@@ -29,7 +29,7 @@ common:
   - www.my-example-blog.com
   - www.my-example-blogsite.com
   - www.website.com/~smith////
-  - www.example.no
+  - www.example.lk
 
 port:
   - http://example.com:8000/display?lang=en&article=fred
